@@ -21,4 +21,4 @@ Datasets
 
 **Yuzhou Wang**. "Data for: Spatial decomposition analysis of NO2 and PM2.5 air pollution in the United States" [Data set]. Mendeley Data, V3, DOI: 10.17632/bz8pdbcvf2.3. 2022. [[Link]](https://data.mendeley.com/datasets/bz8pdbcvf2/2)
 
-**Yuzhou Wang**, Christopher W. Tessum,, Sarah E. Chambliss,, David Paolella, Joshua S. Apte, Julian D. Marshall. "2014 EPA National Emissions Inventory allocated to the grid cells of InMAP Source-Receptor Matrix" [Data set]. Zenodo, DOI: 10.5281/zenodo.5831940. [[Link]](https://zenodo.org/record/5831940#.Yx921ZPMIbk)
+**Yuzhou Wang**, Christopher W. Tessum, Sarah E. Chambliss, David Paolella, Joshua S. Apte, Julian D. Marshall. "2014 EPA National Emissions Inventory allocated to the grid cells of InMAP Source-Receptor Matrix" [Data set]. Zenodo, DOI: 10.5281/zenodo.5831940. [[Link]](https://zenodo.org/record/5831940#.Yx921ZPMIbk)
