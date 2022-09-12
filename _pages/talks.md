@@ -5,7 +5,7 @@ author_profile: true
 ---
 Conference Presentations
 ======
-**Yuzhou Wang**, Yafeng Wang, Hao Xu, Yaohui Zhao, Julian D. Marshall. "Ambient air pollution and socioeconomic status in China." In 33rd Annual Conference of the International Society for Environmental Epidemiology, New York, NY, August 23-26, 2021.
+**Yuzhou Wang**, Yafeng Wang, Hao Xu, Yaohui Zhao, Julian D. Marshall. "Ambient air pollution and socioeconomic status in China." In 33rd Annual Conference of the International Society for Environmental Epidemiology, New York, NY, August 23-26, 2021. [[Link]] (https://www.iseepi.org/docs/ISEE-2021-Abstract-E-Book.pdf)
 
 **Yuzhou Wang**, Matthew J. Bechle, Sun-Young Kim, Peter J. Adams, Spyros N. Pandis, C. Arden Pope III, Allen L. Robinson, Lianne Sheppard, Adam A. Szpiro, and Julian D. Marshall. "Spatial decomposition analysis of NO2 and PM2.5 air pollution in the United States." In 32rd Annual Conference of the International Society for Environmental Epidemiology, Virtual Conference, August 24-27, 2020. [[Link]](https://ehp.niehs.nih.gov/doi/10.1289/isee.2020.virtual.O-OS-556)
 
@@ -14,4 +14,4 @@ Conference Presentations
 
 Invited Talks
 ======
-**Yuzhou Wang**. "Addressing U.S. racial-ethnic inequality in ambient air pollution exposure." In: Seminar in Atmospheric Physics & Chemistry, University of Washington, February 14, 2022.
+**Yuzhou Wang**. "Addressing U.S. racial-ethnic inequality in ambient air pollution exposure." In: Seminar in Atmospheric Physics & Chemistry, University of Washington, February 14, 2022. [[Link]](https://atmos.uw.edu/news-and-events/events/?trumbaEmbed=view%3Devent%26eventid%3D157252949)
