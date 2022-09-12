@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. student at Department of Civil and Environmental Engineering, University of Washington. My advisor is Dr. [Julian Marshall](https://depts.washington.edu/airqual/). I received a Bechelor's degree in Environmental Engineering and a second Bechelor's degree in Busniss Administration from Tsinghua University in 2017. I can be reached at ywang02[AT]uw[DOT]edu.
+I'm a final-year Ph.D. student at Department of Civil and Environmental Engineering, University of Washington. My advisor is Dr. [Julian Marshall](https://depts.washington.edu/airqual/). I received a Bechelor's degree in Environmental Engineering and a second Bechelor's degree in Busniss Administration from Tsinghua University in 2017. 
 
 My research interest is in air pollution exposure assessment: (1) sources and spatial patterns of ambient air pollution that people breathe; (2) how those exposures correlate with race and socioeconomic status; (3) how to reduce those exposures and exposure inequalities. 
 
 I have experience in machine learning, statistics, and geospatial data analysis. I also have experience in developing reduced complexity air quality model.
+
+I can be reached at ywang02[AT]uw[DOT]edu.
 
