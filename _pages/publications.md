@@ -14,15 +14,12 @@ Refereed Journal Articles
 
 Jacob S. Lefler, Joshua D. Higbee, Richard T. Burnett, Majid Ezzati, Nathan C. Coleman, Dalton D. Mann, Julian D. Marshall, Matthew J. Bechle, **Yuzhou Wang**, Allen L. Robinson, C. Arden Pope III. "Air pollution and mortality in a large, representative US cohort: multiple-pollutant analyses, and spatial and temporal decompositions." <em>Environmental Health</em>, 18(101), 1-11. DOI: 10.1186/s12940-019-0544-9. 2019. [[Link]](https://link.springer.com/article/10.1186/s12940-019-0544-9) (2021 IF: 7.158)
 
+</br>
 
-Conference Presentations
+Datasets
 ======
-**Yuzhou Wang**, Yafeng Wang, Hao Xu, Yaohui Zhao, Julian D. Marshall. "Ambient air pollution and socioeconomic status in China." In 33rd Annual Conference of the International Society for Environmental Epidemiology, New York, NY, August 23-26, 2021.
+**Yuzhou Wang**. "Spatial decomposed concentrations of NO2 and PM2.5 air pollution in the United States at Census block group level" [Data set]. Mendeley Data, V1, DOI: 10.17632/ckdvx3d3zc.1. 2020. [[Link]](https://data.mendeley.com/datasets/ckdvx3d3zc/1)
 
-**Yuzhou Wang**, Matthew J. Bechle, Sun-Young Kim, Peter J. Adams, Spyros N. Pandis, C. Arden Pope III, Allen L. Robinson, Lianne Sheppard, Adam A. Szpiro, and Julian D. Marshall. "Spatial decomposition analysis of NO2 and PM2.5 air pollution in the United States." In 32rd Annual Conference of the International Society for Environmental Epidemiology, Virtual Conference, August 24-27, 2020. [[Link]](https://ehp.niehs.nih.gov/doi/10.1289/isee.2020.virtual.O-OS-556)
+**Yuzhou Wang**. "Data for: Spatial decomposition analysis of NO2 and PM2.5 air pollution in the United States" [Data set]. Mendeley Data, V3, DOI: 10.17632/bz8pdbcvf2.3. 2022. [[Link]](https://data.mendeley.com/datasets/bz8pdbcvf2/2)
 
-**Yuzhou Wang**, Matthew J. Bechle, Hao Xu, Xinxin Chen, Yafeng Wang, Julian D. Marshall. "National disparities of air pollution exposure level by socioeconomic status in China." In 31rd Annual Conference of the International Society for Environmental Epidemiology, Utrecht, The Netherlands, August 25-28, 2019. [[Link]](https://journals.lww.com/environepidem/FullText/2019/10001/National_disparities_of_air_pollution_exposure.1289.aspx)
-
-Invited Talks
-======
-**Yuzhou Wang**. "Addressing U.S. racial-ethnic inequality in ambient air pollution exposure." In: Seminar in Atmospheric Physics & Chemistry, University of Washington, February 14, 2022.
+**Yuzhou Wang**, Christopher W. Tessum,, Sarah E. Chambliss,, David Paolella, Joshua S. Apte, Julian D. Marshall. "2014 EPA National Emissions Inventory allocated to the grid cells of InMAP Source-Receptor Matrix" [Data set]. Zenodo, DOI: 10.5281/zenodo.5831940. [[Link]](https://zenodo.org/record/5831940#.Yx921ZPMIbk)
