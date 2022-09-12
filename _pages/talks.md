@@ -11,7 +11,6 @@ Conference Presentations
 
 **Yuzhou Wang**, Matthew J. Bechle, Hao Xu, Xinxin Chen, Yafeng Wang, Julian D. Marshall. "National disparities of air pollution exposure level by socioeconomic status in China." In 31rd Annual Conference of the International Society for Environmental Epidemiology, Utrecht, The Netherlands, August 25-28, 2019. [[Link]](https://journals.lww.com/environepidem/FullText/2019/10001/National_disparities_of_air_pollution_exposure.1289.aspx)
 
-</br>
 
 Invited Talks
 ======

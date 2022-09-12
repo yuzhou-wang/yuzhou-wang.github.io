@@ -14,7 +14,6 @@ Refereed Journal Articles
 
 Jacob S. Lefler, Joshua D. Higbee, Richard T. Burnett, Majid Ezzati, Nathan C. Coleman, Dalton D. Mann, Julian D. Marshall, Matthew J. Bechle, **Yuzhou Wang**, Allen L. Robinson, C. Arden Pope III. "Air pollution and mortality in a large, representative US cohort: multiple-pollutant analyses, and spatial and temporal decompositions." <em>Environmental Health</em>, 18(101), 1-11. DOI: 10.1186/s12940-019-0544-9. 2019. [[Link]](https://link.springer.com/article/10.1186/s12940-019-0544-9) (2021 IF: 7.158)
 
-</br>
 
 Datasets
 ======
