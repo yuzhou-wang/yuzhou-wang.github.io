@@ -11,22 +11,22 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>About</h2>
 {% for post in site.about %}
-  {% include archive-single.html %}
+  {% include index.html %}
 {% endfor %}
 
 <h2>Publications</h2>
 {% for post in site.publications %}
-  {% include archive-single.html %}
+  {% include index.html %}
 {% endfor %}
 
 <h2>Talks</h2>
 {% for post in site.talks %}
-  {% include archive-single.html %}
+  {% include index.html %}
 {% endfor %}
 
 <h2>CV</h2>
 {% for post in site.cv %}
-  {% include archive-single.html %}
+  {% include index.html %}
 {% endfor %}
 
 
