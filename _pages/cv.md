@@ -9,10 +9,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Environmental Engineering, **University of Washington**, 2023 (expected)
-* B.E. in Environmental Engineering, **Tsinghua University**, 2017
-* B.A. in Business Administration, **Tsinghua University**, 2017
-* Exchange student in Globalization Program, **Venice International University**, 2016
+* Ph.D in Environmental Engineering, University of Washington, 2023 (expected)
+* B.E. in Environmental Engineering, Tsinghua University, 2017
+* B.A. in Business Administration, Tsinghua University, 2017
+* Exchange student in Globalization Program, Venice International University, 2016
 
 Research experience
 ======
