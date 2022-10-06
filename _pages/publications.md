@@ -6,7 +6,7 @@ author_profile: true
 Refereed Journal Articles
 ======
 
-**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Regan F. Patterson, Christopher W. Tessum, Julian D. Marshall. "Location-specific strategies for eliminating US national racial-ethnic PM<sub>2.5</sub> exposure inequality." <em>Proceedings of the National Academy of Sciences</em>, Accepted. 2022. (2021 IF: 12.779)
+**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Regan F. Patterson, Christopher W. Tessum, Julian D. Marshall. "Location-specific strategies for eliminating US national racial-ethnic PM<sub>2.5</sub> exposure inequality." <em>Proceedings of the National Academy of Sciences</em>, In Press. 2022. (2021 IF: 12.779)
 
 **Yuzhou Wang**, Yafeng Wang, Hao Xu, Yaohui Zhao, Julian D. Marshall. "Ambient air pollution and socioeconomic status in China." <em>Environmental Health Perspectives</em>, 130 (6), 067001. DOI:10.1289/EHP9872. 2022. [[Link]](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9872) (2021 IF: 11.035)
 
