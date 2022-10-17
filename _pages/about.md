@@ -18,8 +18,7 @@ My research interest is in air pollution exposure assessment, including:
 
 (3) Environmental Policy: how to reduce those exposures and exposure inequalities. 
 
-I have experience in machine learning, statistics, and geospatial data analysis. I also have strong experience in developing reduced complexity air quality model.
-
+I have experience in statistical machine learning, biostatistics, and geospatial data analysis. I also have strong experience in developing reduced complexity air quality model.
 
 
 I can be reached at ywang02[AT]uw[DOT]edu.
