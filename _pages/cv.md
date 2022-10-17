@@ -42,4 +42,4 @@ Skills
 ======
 * **Programming Languages**: Python, SQL, R, Stata, MATLAB, SAS, JavaScript
 * **Software & Packages**: ArcGIS, QGIS, Pandas, Geopandas, numpy, netCDF4, xarray, NCO
-* **Tools**: Google Cloud Platform, Git, Bash
+* **Tools**: Google Cloud Platform, Google Earth Engine, Git, Bash
