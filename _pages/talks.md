@@ -5,6 +5,8 @@ author_profile: true
 ---
 Conference Presentations
 ======
+**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Regan F. Patterson, Christopher W. Tessum, Julian D. Marshall. "Addressing U.S. racial-ethnic inequality in air pollution exposure." In 34rd Annual Conference of the International Society for Environmental Epidemiology, Athens, Greece, September 18-21, 2022. [[Link]](https://isee2022.org/wp-content/uploads/2022/09/ISEE_2022_Abstract_Book.pdf)
+
 **Yuzhou Wang**, Yafeng Wang, Hao Xu, Yaohui Zhao, Julian D. Marshall. "Ambient air pollution and socioeconomic status in China." In 33rd Annual Conference of the International Society for Environmental Epidemiology, New York, NY, August 23-26, 2021. [[Link]](https://ehp.niehs.nih.gov/doi/10.1289/isee.2021.O-LT-070)
 
 **Yuzhou Wang**, Matthew J. Bechle, Sun-Young Kim, Peter J. Adams, Spyros N. Pandis, C. Arden Pope III, Allen L. Robinson, Lianne Sheppard, Adam A. Szpiro, and Julian D. Marshall. "Spatial decomposition analysis of NO2 and PM2.5 air pollution in the United States." In 32rd Annual Conference of the International Society for Environmental Epidemiology, Virtual Conference, August 24-27, 2020. [[Link]](https://ehp.niehs.nih.gov/doi/10.1289/isee.2020.virtual.O-OS-556)
