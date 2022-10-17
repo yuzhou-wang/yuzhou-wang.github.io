@@ -12,7 +12,7 @@ I'm a final-year Ph.D. student at Department of Civil and Environmental Engineer
 
 My research interest is in air pollution exposure assessment, including: 
 
-(1) sources and spatial patterns of ambient air pollution that people breathe; 
+(1) sources and spatial patterns of ambient air pollution that people breathe, using both empirical and source-receptor models; 
 
 (2) Environmental Justice: how those exposures correlate with race and socioeconomic status; 
 
