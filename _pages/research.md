@@ -11,7 +11,6 @@ author_profile: true
 To be added.
 
 
-</br>
 **Environmental Inequality in China**
 
 
