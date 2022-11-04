@@ -23,7 +23,9 @@ Text to be added
 
 <br clear="left"/>
 
-<span style="color:grey; font-family: Times" display= block; width=150px; word-wrap=break-word>Spatial decomposition of air pollution into four spatial components: long-range, mid-range, neighborhood, and near-source.</span>
+<span style="color:grey; font-family: Times">Spatial decomposition of air pollution into \
+four spatial components: long-range, \
+mid-range, neighborhood, and near-source.</span>
 
 
 **Environmental Inequality in China**
