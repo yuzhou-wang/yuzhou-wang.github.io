@@ -10,9 +10,14 @@ author_profile: true
 
 To be added.
 
-
 **Environmental Inequality in China**
 
 <img src="/images/china_ej.png" alt="China EJ" align="middle" class="inline" width=295 />
+
+To be added.
+
+**Spatial Decomposition of Air Pollution**
+
+<img src="/images/spatial_decomposition.jpg" alt="Spatial Decomposition" align="middle" class="inline" width=295 />
 
 To be added.
