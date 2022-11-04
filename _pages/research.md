@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="/images/compare_three_approaches.png" alt="PM2.5 exposure disparity reduction curves" align="right" class="inline" width=295 height=300/>
 
-test
+To be added.
 
 
 
