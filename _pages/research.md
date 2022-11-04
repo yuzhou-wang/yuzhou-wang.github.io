@@ -17,7 +17,7 @@ author_profile: true
 
 
 To be added.
-<br/>
+<br/><br/>
 
 
 **Spatial Decomposition of Air Pollution**
@@ -33,7 +33,8 @@ To be added.
 
 
 To be added.
-<br/>
+<br/><br/>
+
 
 **Environmental Inequality in China**
 
@@ -47,7 +48,7 @@ To be added.
 </figure>
 
 To be added.
-<br/>
+<br/><br/>
 
 
 
