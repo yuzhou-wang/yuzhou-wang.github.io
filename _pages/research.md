@@ -38,20 +38,6 @@ To be added.
 
 **Environmental Inequality in China**
 
-<head>
-<style>
-div {
-  float: right;
-  width: 120px;
-  margin: 0 0 15px 20px;
-  padding: 15px;
-  border: 0;
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
 <h2>Let an image with a caption float to the right</h2>
 
 <p>In the paragraph below, the div element is 120 pixels wide and it contains the image. The div element will float to the right. Margins are added to the div to push the text away from the div. Borders and padding are added to the div to frame in the picture and the caption.</p>
