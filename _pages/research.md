@@ -8,7 +8,7 @@ author_profile: true
 
 <figure>
 <p align="center">
-  <img align="left" src="/images/compare_three_approaches.png" width="400"/>
+  <img align="left" src="/images/compare_three_approaches.png" width="295"/>
 </p>
 
 <figcaption align = "center"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
@@ -18,12 +18,13 @@ author_profile: true
 
 To be added.
 
+</br>
 
 **Spatial Decomposition of Air Pollution**
 
 <figure>
 <p align="center">
-  <img align="left" src="/images/spatial_decomposition.jpg" width="400"/>
+  <img align="left" src="/images/spatial_decomposition.jpg" width="295"/>
 </p>
 
 <figcaption align = "center"><b>Spatial decomposition of air pollution into four spatial components: long-range, mid-range, neighborhood, and near-source.</b></figcaption>
@@ -33,12 +34,13 @@ To be added.
 
 To be added.
 
+</br>
 
 **Environmental Inequality in China**
 
 <figure>
 <p align="center">
-  <img align="left" src="/images/china_ej.png" width="400"/>
+  <img align="left" src="/images/china_ej.png" width="295"/>
 </p>
 
 <figcaption align = "center"><b>Ambient pollution concentration by individual's socioeconomic status.</b></figcaption>
