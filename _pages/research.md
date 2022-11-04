@@ -6,24 +6,47 @@ author_profile: true
 
 **Address U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>**
 
-<img src="/images/compare_three_approaches.png" alt="PM2.5 exposure disparity reduction curves" align="left" class="inline" width=295 height=300/>
+<figure>
+<p align="center">
+  <img align="left" src="images/compare_three_approaches.png" width="400"/>
+</p>
+
+<figcaption align = "center"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
+
+</figure>
+
 
 To be added.
 
-<br />
 
 **Spatial Decomposition of Air Pollution**
 
-<img src="/images/spatial_decomposition.jpg" alt="Spatial decomposition of air pollution into four spatial components: long-range, mid-range, neighborhood, and near-source" align="left" class="inline" width=295 />
+<figure>
+<p align="center">
+  <img align="left" src="images/spatial_decomposition.jpg" width="400"/>
+</p>
+
+<figcaption align = "center"><b>Spatial decomposition of air pollution into four spatial components: long-range, mid-range, neighborhood, and near-source.</b></figcaption>
+
+</figure>
+
 
 To be added.
 
-<br />
 
 **Environmental Inequality in China**
 
-<img src="/images/china_ej.png" alt="Ambient pollution concentration by individual's socioeconomic status" align="left" class="inline" width=295 />
+<figure>
+<p align="center">
+  <img align="left" src="images/china_ej.png" width="400"/>
+</p>
+
+<figcaption align = "center"><b>Ambient pollution concentration by individual's socioeconomic status.</b></figcaption>
+
+</figure>
 
 To be added.
+
+
 
 
