@@ -6,7 +6,7 @@ author_profile: true
 
 **Address U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>**
 
-<img align="left" src="/images/compare_three_approaches.png" width="350px"/>
+<img align="left" src="/images/compare_three_approaches.png" width="350px" margin-right="15px" />
 
 Text to be added
 
@@ -17,7 +17,7 @@ Text to be added
 
 **Spatial Decomposition of Air Pollution**
 
-<img align="left" src="/images/spatial_decomposition.jpg" width="350px"/>
+<img align="left" src="/images/spatial_decomposition.jpg" width="350px" margin-right="10px" />
 
 Text to be added
 
@@ -30,7 +30,7 @@ mid-range, neighborhood, and near-source.</span>
 
 **Environmental Inequality in China**
 
-<img src="/images/china_ej.png" align="left" width="350px"/>
+<img src="/images/china_ej.png" align="left" width="350px" margin-right="20px" />
 
 Text to be added
 
