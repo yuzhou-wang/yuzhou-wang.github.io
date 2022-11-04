@@ -7,7 +7,7 @@ author_profile: true
 **Address U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>**
 
 <figure>
-<p align="center">
+<p align="left">
   <img align="left" src="/images/compare_three_approaches.png" width="295"/>
 </p>
 
@@ -18,12 +18,11 @@ author_profile: true
 
 To be added.
 
-</br>
 
 **Spatial Decomposition of Air Pollution**
 
 <figure>
-<p align="center">
+<p align="left" class="inline" >
   <img align="left" src="/images/spatial_decomposition.jpg" width="295"/>
 </p>
 
@@ -34,12 +33,11 @@ To be added.
 
 To be added.
 
-</br>
 
 **Environmental Inequality in China**
 
 <figure>
-<p align="center">
+<p align="left" class="inline" >
   <img align="left" src="/images/china_ej.png" width="295"/>
 </p>
 
