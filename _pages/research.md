@@ -38,20 +38,8 @@ To be added.
 
 **Environmental Inequality in China**
 
-<figure>
-<p align="left" class="inline">
-  <img align="left" src="/images/china_ej.png" width=295/>
-</p>
-
-<figcaption align = "center"><b>Ambient pollution concentration by individual's socioeconomic status.</b></figcaption>
-
-</figure>
-
-To be added.
-<br/><br/>
-
 <img src="/images/china_ej.png" align="left" width="300px"/>
-<figcaption>This is my caption text.</figcaption>
+<figcaption>Ambient pollution concentration by individual's socioeconomic status.</figcaption>
 
 some text floating around the image
 
