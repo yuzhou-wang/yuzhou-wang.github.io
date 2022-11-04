@@ -12,6 +12,6 @@ To be added.
 
 
 **Environmental Inequality in China**
-<img src="/images/compare_three_approaches.png" alt="PM2.5 exposure disparity reduction curves" align="middle" class="inline" width=295 />
+<img src="/images/china_ej.png" alt="China EJ" align="middle" class="inline" width=295 />
 
 To be added.
