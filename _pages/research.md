@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
@@ -38,30 +38,10 @@ To be added.
 
 **Environmental Inequality in China**
 
-<h2>Let an image with a caption float to the right</h2>
+<img src="/images/china_ej.png" align="left" width="300px"/>
 
-<p>In the paragraph below, the div element is 120 pixels wide and it contains the image. The div element will float to the right. Margins are added to the div to push the text away from the div. Borders and padding are added to the div to frame in the picture and the caption.</p>
+some text floating around the image
 
-<div>
-<img src="/images/china_ej.png" width="100" height="140"><br>Ambient pollution concentration by individual's socioeconomic status.
-</div>
+<br clear="left"/>
 
-<p>
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-This is some text. This is some text. This is some text.
-</p>
-
-</body>
-
-
+text.
