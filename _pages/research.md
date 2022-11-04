@@ -50,8 +50,11 @@ To be added.
 To be added.
 <br/><br/>
 
+<figure>
+<img src="/images/china_ej.png" align="left" width="300px"/>
+<figcaption>This is my caption text.</figcaption>
+</figure>
 
-<img src="/images/china_ej.png" align="left" width="200px"/>
 some text floating around the image
 
 <br clear="left"/>
