@@ -23,8 +23,8 @@ Text to be added
 
 <br clear="left"/>
 
-<span style="color:grey; font-family: Times">Spatial decomposition of air pollution into \
-four spatial components: long-range, \
+<span style="color:grey; font-family: Times">Spatial decomposition of air pollution into <br/>
+four spatial components: long-range, <br/>
 mid-range, neighborhood, and near-source.</span>
 
 
