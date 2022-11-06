@@ -4,15 +4,16 @@ permalink: /research/
 author_profile: true
 ---
 
-**Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>**
+Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
+======
 
 <figure>
 <p align="center">
   <img align="middle" src="/images/compare_three_approaches.png" width="400px" style="width:50%"/>
-</p>
+
 
 <figcaption align = "center"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
-
+</p>
 </figure>
 
 
