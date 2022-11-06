@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
-======
+=====
 
 <figure>
 <p align="center">
@@ -19,7 +19,8 @@ The Clean Air Act has dramatically reduced outdoor air pollution levels in the U
 
 **Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119)
 
-**Environmental Inequality in China**
+Environmental Inequality in China
+======
 
 <img src="/images/china_ej.png" align="left" width="350px" margin-right="20px" />
 
@@ -30,7 +31,8 @@ Text to be added
 <span style="color:grey; font-family: Times">Fig. Ambient pollution concentration by individual's <br/>
 socioeconomic status.</span>
 
-**Spatial Decomposition of Air Pollution**
+Spatial Decomposition of Air Pollution
+======
 
 <img align="left" src="/images/spatial_decomposition.jpg" width="350px" margin-right="20px" />
 
