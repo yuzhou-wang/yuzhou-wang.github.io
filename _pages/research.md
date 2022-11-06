@@ -10,9 +10,7 @@ Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
 <figure>
 <p align="center">
   <img align="middle" src="/images/compare_three_approaches.png" width="400px" style="width:50%"/>
-
-
-<figcaption align="middle"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
+<figcaption align="middle"><b>PM2.5 exposure disparity reduction curves.</b> Current conditions are the left side (i.e., "do nothing" at x=0) and a complete (100%) emission-reduction is the right side (i.e., achieving zero emissions: lower-right, at x=30.4 MT/y). The plot compares three approaches to emission-reduction: "location" (green line), "sector" (blue line), and "NAAQS-like" ( i.e., employing a concentration standard, here 6 $\mathrm{\mu g/m^{3}}$; orange line). An "equal reduction" approach, where all emissions are reduced proportionately, would be a straight line (black dotted line). The "location" approach (green line) can eliminate national disparities with modest total emission reductions, whereas with the other two approaches, national disparities remain even after substantial emission reductions)</b></figcaption>
 </p>
 </figure>
 
