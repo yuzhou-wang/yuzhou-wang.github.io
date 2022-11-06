@@ -16,8 +16,10 @@ Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
 
 The Clean Air Act has dramatically reduced outdoor air pollution levels in the US over the past decades, yet national racial-ethnic exposure disparities persist. People of color are exposed to higher PM<sub>2.5</sub> concentration. It is unknown how to systematically eliminate these disparities. Using InMAP (Intervention Model for Air Pollution) source-receptor matrix (ISRM), we investigate three emission-reduction approaches, and compare their optimal ability to address the disparity. Results suggest that two main current regulatory strategies are ineffective at addressing national average racial-ethnic inequalities. In contrast, those inequalities can be eliminated with modest emission-reduction (optimal: ~1% of total emissions) using a location-specific approach. That approach is not included in current national regulatory frameworks (but it is being discussed, and some states have implemented it); also, that approach does as well as or better than the two other approaches, at the goal of reducing overall population average. This research informs the active national conversation about addressing environmental injustice, by providing a scientifically grounded approach for eliminating disparities.
 
-**Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119)
+**Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119) <br/>
+**Coverage**: [Popular Science](https://www.popsci.com/environment/pollution-racial-disparities-policy/); [UW News](https://www.washington.edu/news/2022/10/24/new-approach-could-eliminate-air-pollution-disparities/)
 
+<br/>
 Environmental Inequality in China
 ======
 <figure>
@@ -31,6 +33,9 @@ Air pollution disparities by socioeconomic status (SES) display an inverse relat
 
 **Publication**: [Wang et al. EHP. 2022](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9872)
 
+**Coverage**: [UW News](https://www.ce.washington.edu/news/article/2022-06-08/higher-socioeconomic-status-linked-increased-air-pollution-exposure-china)
+
+<br/>
 
 Spatial Decomposition of Air Pollution
 ======
@@ -44,4 +49,5 @@ Spatial Decomposition of Air Pollution
 
 Length scales for spatial variability of air pollution concentrations depend on the pollutant and the location. We develop a readily scalable algorithm based on “spatial-increment”, to decompose the air pollution concentration into four spatial components: long-range, mid-range, neighborhood, and near-source. We apply the algorithm to annual-average concentrations of outdoor NO<sub>2</sub> and PM<sub>2.5</sub> for all census blocks in the contiguous US. We show that for NO<sub>2</sub>, “neighborhood” and “mid-range” components dominate both within-city and between-city concentration differences, yet for PM<sub>2.5</sub>, the “long-range” component at regional level dominates. Our results can be used to estimate the contribution of sources at different distances from the receptor to the annual average pollution in a location of interest. The datasets have already been applied in environmental health and environmental justice analyses.
 
-**Publication**: [Wang et al. AE. 2020](https://www.sciencedirect.com/science/article/pii/S1352231020302077); [Lefler et al. EH. 2019](https://link.springer.com/article/10.1186/s12940-019-0544-9); [Wang. Mendeley Data. 2020](https://data.mendeley.com/datasets/ckdvx3d3zc/1); [Wang. Mendeley Data. 2021](https://data.mendeley.com/datasets/bz8pdbcvf2/2)
+**Publication**: [Wang et al. AE. 2020](https://www.sciencedirect.com/science/article/pii/S1352231020302077); [Lefler et al. EH. 2019](https://link.springer.com/article/10.1186/s12940-019-0544-9)
+**Dataset**: [[Wang. Mendeley Data. 2020](https://data.mendeley.com/datasets/ckdvx3d3zc/1); [Wang. Mendeley Data. 2021](https://data.mendeley.com/datasets/bz8pdbcvf2/2)
