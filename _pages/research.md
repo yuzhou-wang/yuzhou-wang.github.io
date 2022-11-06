@@ -12,7 +12,7 @@ Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
   <img align="middle" src="/images/compare_three_approaches.png" width="400px" style="width:50%"/>
 
 
-<figcaption align = "center"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
+<figcaption align="middle"><b>PM2.5 exposure disparity reduction curves.</b></figcaption>
 </p>
 </figure>
 
