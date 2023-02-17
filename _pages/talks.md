@@ -19,3 +19,5 @@ Invited Talks
 **Yuzhou Wang**. "Addressing U.S. racial-ethnic inequality in ambient air pollution exposure." In: Seminar in Atmospheric Physics & Chemistry, University of Washington, February 14, 2022. [[Link]](https://atmos.uw.edu/news-and-events/events/?trumbaEmbed=view%3Devent%26eventid%3D157252949)
 
 **Yuzhou Wang**. "Addressing racial-ethnic inequality in exposure to PM<sub>2.5</sub>" In: University of California, Berkeley, Nov 9, 2022.
+
+**Yuzhou Wang**. "Location-specific strategies for eliminating US national racial-ethnic PM<sub>2.5</sub> exposure inequality" In: Air pollution inequity research seminar, Environmental Defense Fund, Feb 3, 2023.
