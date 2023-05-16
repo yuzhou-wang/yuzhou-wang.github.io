@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year Ph.D. candidate at Department of Civil and Environmental Engineering, University of Washington. My advisor is Dr. [Julian Marshall](https://depts.washington.edu/airqual/). I received a Bachelor's degree in Environmental Engineering and a second Bachelor's degree in Business Administration from Tsinghua University in 2017. 
+I'm an incoming postdoc at University of California, Berkeley. I got my PhD degree in Environmental Engineering from University of Washington in 2023. My PhD advisor is Dr. [Julian Marshall](https://depts.washington.edu/airqual/). I received a Bachelor's degree in Environmental Engineering and a second Bachelor's degree in Business Administration from Tsinghua University in 2017. 
 
 My research interest is in air pollution exposure assessment, including: 
 
