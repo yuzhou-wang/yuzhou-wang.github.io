@@ -3,6 +3,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+Submitted Journal Articles
+======
+**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Air quality policy should quantify effects on disparities" Submitted. 2023.
+
+
 Refereed Journal Articles
 ======
 
