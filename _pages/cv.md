@@ -16,8 +16,11 @@ Education
 
 Research experience
 ======
+* Postdoctoral Scholar, Jul 2023 - Present
+  * Department of Civil and Environmental Engineering, University of California, Berkeley
+      
 * Doctoral Research Fellow, Aug 2017 - Jun 2023
-  * Department of Environmental Engineering, University of Washington
+  * Department of Civil and Environmental Engineering, University of Washington
   * Supervisor: Dr. Julian Marshall
 
 * Research Assistant, Jul 2016 - Sep 2016
