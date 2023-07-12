@@ -5,7 +5,7 @@ author_profile: true
 ---
 Refereed Journal Articles
 ======
-**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Air quality policy should quantify effects on disparities." <em>Science</em> In Press. 2023.
+**Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Air quality policy should quantify effects on disparities." <em>Science</em>, In Press. 2023.
 
 **Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Location-specific strategies for eliminating US national racial-ethnic PM<sub>2.5</sub> exposure inequality." <em>Proceedings of the National Academy of Sciences</em>, 119 (44), e2205548119. DOI: 10.1073/pnas.2205548119. 2022. [[Link]](https://www.pnas.org/doi/10.1073/pnas.2205548119) (2021 IF: 12.779)
 
