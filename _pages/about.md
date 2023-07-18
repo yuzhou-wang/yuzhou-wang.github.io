@@ -21,5 +21,5 @@ My research interest is in air pollution exposure assessment, including:
 I have experience in statistical machine learning, biostatistics, and geospatial data analysis. I also have strong experience in developing reduced complexity air quality model.
 
 
-I can be reached at ywang02[AT]uw[DOT]edu.
+I can be reached at yuzhouw[AT]berkeley[DOT]edu.
 
