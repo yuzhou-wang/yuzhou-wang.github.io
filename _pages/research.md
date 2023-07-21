@@ -34,7 +34,6 @@ We find that air pollution exposure disparities will persist if the past trends 
 
 
 **Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119), [Wang et al. Science. 2023](https://www.science.org/doi/10.1126/science.adg9931) <br/>
-**Coverage**: [Popular Science](https://www.popsci.com/environment/pollution-racial-disparities-policy/); [UW News](https://www.washington.edu/news/2022/10/24/new-approach-could-eliminate-air-pollution-disparities/)<br/>
 
 
 <br/>
