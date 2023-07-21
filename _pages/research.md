@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-Policies and Approaches to Address U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
+Policies to Address U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
 =====
 
 The Clean Air Act has dramatically reduced outdoor air pollution levels in the US over the past decades, yet national racial-ethnic exposure disparities persist. People of color, and low-income populations are exposed to higher PM<sub>2.5</sub> concentrations. It is unknown whether the current government policies for improving air quality and adressing environmental injustice will adress or eliminate those exposure disparities.
