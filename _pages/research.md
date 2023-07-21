@@ -50,7 +50,7 @@ Environmental Inequality in China
 Air pollution disparities by socioeconomic status (SES) display an inverse relationship (i.e., higher concentrations for lower-SES populations) in US and many high-income countries. However, my study indicate a reverse pattern in China (a country accounting for 26% of global premature deaths from ambient air pollution). Combing air pollution data from a national empirical model and demographic data from (1) national gridded GDP per capita, and (2) a national representative sample of 21,095 individuals from the China Health and Retirement Longitudinal Study ([CHARLS](https://charls.pku.edu.cn/en/)), we quantify air pollution disparities among individual’s rural-to-urban migration status; SES factors (education, occupation, and income); and minority status. Results indicate that in China, ambient NO<sub>2</sub> and PM<sub>2.5</sub> concentrations are higher for high-SES than for low-SES individuals; these results are robust to multiple sensitivity analyses. The findings imply that in China’s current industrialization and urbanization stage, economic development is correlated with both SES and air pollution. 
 
 **Publication**: [Wang et al. EHP. 2022](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9872)<br/>
-**Coverage**: [UW News](https://www.ce.washington.edu/news/article/2022-06-08/higher-socioeconomic-status-linked-increased-air-pollution-exposure-china)
+
 
 <br/>
 
