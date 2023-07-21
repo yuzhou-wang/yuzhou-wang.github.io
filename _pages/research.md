@@ -4,8 +4,15 @@ permalink: /research/
 author_profile: true
 ---
 
-Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
+
+
+Policies and approaches to addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
 =====
+
+The Clean Air Act has dramatically reduced outdoor air pollution levels in the US over the past decades, yet national racial-ethnic exposure disparities persist. People of color, and low-income populations are exposed to higher PM<sub>2.5</sub> concentrations. It is unknown whether the current government policies for improving air quality and adressing environmental injustice will adress or eliminate those exposure disparities.
+
+
+I have published two reseach papers on this topic. Wang et al. PNAS, 2022 investigates three general emission-reduction approaches, and compare their optimal ability to address the disparity. Wang et al. Science, 2023 quantifies the effects of  Climate and Economic Justice Screening Tool (CEJST), which is a signiture component of Biden Administration’s Justice40 Initiative, and is the current method to define disadvantaged communities. In both research projects, we employ [InMAP](http://spatialmodel.com/inmap/) (Intervention Model for Air Pollution) source-receptor matrix ([ISRM](https://zenodo.org/record/2589760#.Y2g76ezMJK8)) to predict how changes in emissions impact annual-average PM<sub>2.5</sub> concentrations and exposure inequalities.
 
 <figure>
 <p align="center">
@@ -14,9 +21,19 @@ Addressing U.S. Racial-Ethnic Inequality in Exposure to PM<sub>2.5</sub>
 </p>
 </figure>
 
-The Clean Air Act has dramatically reduced outdoor air pollution levels in the US over the past decades, yet national racial-ethnic exposure disparities persist. People of color are exposed to higher PM<sub>2.5</sub> concentration. It is unknown how to systematically eliminate these disparities. Using [InMAP](http://spatialmodel.com/inmap/) (Intervention Model for Air Pollution) source-receptor matrix ([ISRM](https://zenodo.org/record/2589760#.Y2g76ezMJK8)), we investigate three emission-reduction approaches, and compare their optimal ability to address the disparity. Results suggest that two main current regulatory strategies are ineffective at addressing national average racial-ethnic inequalities. In contrast, those inequalities can be eliminated with modest emission-reduction (optimal: ~1% of total emissions) using a location-specific approach. That approach is not included in current national regulatory frameworks (but it is being discussed, and some states have implemented it); also, that approach does as well as or better than the two other approaches, at the goal of reducing overall population average. This research informs the active national conversation about addressing environmental injustice, by providing a scientifically grounded approach for eliminating disparities.
+We compare three three broad approaches of emission reductions: 1) "location"-specific approach; 2) "sector"-specific approach; and 3) "NAAQS-like" approach. "Sector" and "NAAQS-like"  mirror aspects of current air quality regulations, "location" would be a new regulatory approach. Our results suggest that two main current regulatory strategies are ineffective at addressing national average racial-ethnic inequalities. In contrast, those inequalities can be eliminated with modest emission-reduction (optimal: ~1% of total emissions) using a location-specific approach. That approach is not included in current national regulatory frameworks (but it is being discussed, and some states have implemented it); also, that approach does as well as or better than the two other approaches, at the goal of reducing overall population average. This research informs the active national conversation about addressing environmental injustice, by providing a scientifically grounded approach for eliminating disparities.
 
-**Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119) <br/>
+<figure>
+<p align="center">
+  <img align="middle" src="/images/Science_figure2.png" width="400px" style="width:90%"/>
+<figcaption align="left"><b>Disparities in PM<sub>2.5</sub> exposure and deaths for the three future scenarios. </b> Disparities in PM2.5 exposure and deaths for the three future scenariosDisparities relative to the population-average, for “business as usual” (BAU) scenario and when emission-reductions in disadvantaged communities (DAC) are double or quadruple the BAU rate. Top row, absolute disparities; bottom row, relative disparities. </figcaption>
+</p>
+</figure>
+
+We find that air pollution exposure disparities will persist if the past trends of emission-reductions are to continue into the future. We also reveal that Biden administration’s current method for identifying disadvantaged communities (CEJST), if used to identify where to prioritize emissions reductions, will only eliminate disparities by income, but will not meaningfully reduce racial-ethnic air pollution disparities, even if the emissions reductions are aggressive or very aggressive. This is because CEJST is blind to racial/ethnic composition, and is also because the policy effects on disparities are not quantified prior to implementation. The largest exposure disparities are by race-ethnicity; disparities by race are larger than, and statistically distinct from, those by income. So policies cannot ignore race if they wish to eliminate air pollution disparities. New tools now make it possible to investigate whether proposed actions will eliminate the exposure disparities we see.
+
+
+**Publication**: [Wang et al. PNAS. 2022](https://www.pnas.org/doi/10.1073/pnas.2205548119), [Wang et al. Science. 2023](https://www.science.org/doi/10.1126/science.adg9931) <br/>
 **Coverage**: [Popular Science](https://www.popsci.com/environment/pollution-racial-disparities-policy/); [UW News](https://www.washington.edu/news/2022/10/24/new-approach-could-eliminate-air-pollution-disparities/)<br/>
 
 
