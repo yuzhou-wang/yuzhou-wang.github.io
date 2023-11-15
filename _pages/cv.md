@@ -26,18 +26,18 @@ Research experience
 
 * Research Assistant, Jul 2016 - Sep 2016
   * Center for Neighborhood Knowledge, University of California, Los Angeles
-    * <em>Analyzed the relationship between retail development from 1990 and 2010 and tract-level socioeconomic status. The work was involved in the publication South Los Angeles Since the 1960s: Race, Place, and Class.</em>
+    * Analyzed the relationship between retail development from 1990 and 2010 and tract-level socioeconomic status. The work was involved in the publication <em>South Los Angeles Since the 1960s: Race, Place, and Class.</em>
   * Supervisor: Dr. Paul Ong
 
 * Research Assistant, Oct 2015 - Jul 2017
   * Center for Earth System Science, Tsinghua University 
-    * <em>Built an hourly-based semi-empirical PM2.5 forecast statistical model based on backward trajectory, background concentration and meteorological data in three megacities in China</em>
+    * Built an hourly-based semi-empirical PM2.5 forecast statistical model based on backward trajectory, background concentration and meteorological data in three megacities in China
   * Supervisor: Dr. Yuqi Bai
 
 * Research Assistant, Jun 2015 - Aug 2015
   * Policy Research Center for Environment and Economy, Ministry of Environmental Protection, P. R. China
-    * <em>Assisted to evaluate the implement of Air Pollutant Emission Standards for Flat Glass Industry (GB26453-2011).</em>
-    * <em>Composed a research report PPP Financing Model in the Field of Environmental Protection in China.</em>
+    * Assisted to evaluate the implement of <em>Air Pollutant Emission Standards for Flat Glass Industry (GB26453-2011).</em>
+    * Composed a research report <em>PPP Financing Model in the Field of Environmental Protection in China.</em>
     
 Teaching & mentoring experience
 ======
