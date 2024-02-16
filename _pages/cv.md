@@ -57,6 +57,7 @@ Professional associations
 Academic & community service
 ======
 * Manuscript Peer Review
+  * Nature Cities
   * Journal of Transport Geography
   * Population and Environment
   * Transactions in Urban Data, Science, and Technology
