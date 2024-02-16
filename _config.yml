@@ -83,7 +83,7 @@ author:
   name             : "Yuzhou Wang \n (王雨洲)"
   avatar           : "profile.png"
   bio              : "Postdoc at University of California, Berkeley, working on air pollution and environmental inequality"
-  location         : "Berkeley, CA"
+  location         : #"Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vH2cj8MAAAAJ&hl=en&oi=ao"
