@@ -18,21 +18,24 @@ Research experience
 ======
 * Postdoctoral Scholar, Jul 2023 - Present
   * Department of Civil and Environmental Engineering, University of California, Berkeley
-  * Supervisor: Dr. Joshua Apte
+    * Developed a data-driven high-resolution (1 km) and computational-efficient air quality modeling, based on 200 TB raw data, to connect emissions to ambient air pollution concentrations (digital twin). 
+    * Implemented the distributed computing of air quality models using Kubernetes on Google Cloud Platform.
+    * Developed an optimization approach for monitoring site siting, utilizing remote sensing data and observational data.
  
 * Doctoral Research Fellow, Aug 2017 - Jun 2023
   * Department of Civil and Environmental Engineering, University of Washington
-  * Supervisor: Dr. Julian Marshall
+    * Developed a data-driven algorithm, based on machine learning modeling and geospatial optimization, to quantify the spatial origins of ambient air pollution for every census block (n = 6 million) in the US.
+    * Led an interdisciplinary team to utilize multiple statistical approaches to investigate the relationship between air pollution and socioeconomic status in China, involving unstructured qualitative and quantitative data.
+    * Led a cross-institutional research team to develop a stepwise optimization approach for emission interventions to achieve the largest environmental, social justice, and health benefits. 
+
 
 * Research Assistant, Jul 2016 - Sep 2016
   * Center for Neighborhood Knowledge, University of California, Los Angeles
     * Analyzed the relationship between retail development from 1990 and 2010 and tract-level socioeconomic status. The work was involved in the publication <em>South Los Angeles Since the 1960s: Race, Place, and Class.</em>
-  * Supervisor: Dr. Paul Ong
 
 * Research Assistant, Oct 2015 - Jul 2017
   * Center for Earth System Science, Tsinghua University 
     * Built an hourly-based semi-empirical PM2.5 forecast statistical model based on backward trajectory, background concentration and meteorological data in three megacities in China
-  * Supervisor: Dr. Yuqi Bai
 
 * Research Assistant, Jun 2015 - Aug 2015
   * Policy Research Center for Environment and Economy, Ministry of Environmental Protection, P. R. China
@@ -61,6 +64,7 @@ Academic & community service
   * Journal of Transport Geography
   * Population and Environment
   * Transactions in Urban Data, Science, and Technology
+  * CLEAN – Soil, Air, Water
 
 * Public Comment
   * Written comment on "Science Advisory Board Project Proposal: SAB Advice on Advancing Environmental Justice Science in Rulemaking", with Julian Marshall and Joshua Apte. September 2023. [Link](https://sab.epa.gov/ords/sab/r/sab_apex/sab/meeting?p19_id=1009&clear=19&session=6395161657326)
@@ -68,6 +72,6 @@ Academic & community service
 
 Skills
 ======
-* **Programming Languages**: Python, SQL, R, Stata, MATLAB, SAS, JavaScript
-* **Software & Packages**: ArcGIS, QGIS, Pandas, Geopandas, numpy, netCDF4, xarray, NCO
-* **Tools**: Google Cloud Platform, Google Earth Engine, Git, Bash
+* **Programming Languages**: Python, SQL, R, Golang, Stata, MATLAB, SAS, JavaScript
+* **Software & Packages**: Pandas, Geopandas, numpy, xarray, QGIS, GDAL, NCO, SciPy, Scikit-learn, Tensorflow
+* **Tools**: Google Cloud Platform, Kubernetes, Google Earth Engine, Docker, Git, Linux, Remote Sensing
