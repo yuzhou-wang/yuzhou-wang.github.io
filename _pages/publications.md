@@ -5,6 +5,8 @@ author_profile: true
 ---
 Refereed Journal Articles
 ======
+**Yuzhou Wang**, Julian D. Marshall, Joshua S. Apte. "U.S. Ambient Air Monitoring Network Has Inadequate Coverage under New PM<sub>2.5</sub> Standard." <em>Environmental Science & Technology Letters</em>, In Press. DOI: 10.1021/acs.estlett.4c00605. 2024 [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00605) <span style="color:orange">Coverage</span>: [Eos](https://eos.org/articles/epa-air-monitoring-network-misses-2-8-million-americans-in-pollution-hot-spots); [Chemical & Engineering News](https://cen.acs.org/environment/atmospheric-chemistry/US-air-pollution-monitoring-network/102/i33?sc=230901_cenrssfeed_eng_Environmentrss_cen); [American Chemical Society](https://www.acs.org/pressroom/presspacs/2024/october/us-air-pollution-monitoring-network-has-gaps-in-coverage-say-researchers.html)
+
 **Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Air quality policy should quantify effects on disparities." <em>Science</em>, 381,272-274. DOI: 10.1126/science.adg9931. 2023. [[Link]](https://www.science.org/doi/10.1126/science.adg9931) [[PDF]](https://github.com/yuzhou-wang/yuzhou-wang.github.io/blob/master/files/Wang%20et%20al%20Science%202023.pdf) <span style="color:orange">Coverage</span>: [The New York Times](https://www.nytimes.com/2023/07/20/climate/justice40-pollution-environmental-justice.html); [The Associated Press](https://apnews.com/article/environment-climate-pollution-biden-justice40-air-633392b2f4f50bbaaff8880746783966); [The Washington Post](https://www.washingtonpost.com/climate-environment/2023/07/20/without-focus-race-biden-effort-air-pollution-disparities-will-fail-report-says/); [National Public Radio](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america)
 
 **Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Location-specific strategies for eliminating US national racial-ethnic PM<sub>2.5</sub> exposure inequality." <em>Proceedings of the National Academy of Sciences</em>, 119 (44), e2205548119. DOI: 10.1073/pnas.2205548119. 2022. [[Link]](https://www.pnas.org/doi/10.1073/pnas.2205548119) <span style="color:orange">Coverage</span>: [Popular Science](https://www.popsci.com/environment/pollution-racial-disparities-policy/); [UW News](https://www.washington.edu/news/2022/10/24/new-approach-could-eliminate-air-pollution-disparities/)
@@ -22,11 +24,17 @@ Siyu Zhu, Zhi Li, Mengye Chen, Theresa E. Tsoodle, Sebastian C. Ferraro, **Yuzho
 
 Working Papers
 ======
-**Yuzhou Wang**, Julian D. Marshall, Joshua S. Apte. "Challenges in Clean Air Act: Monitoring gaps and disparities for at-risk populations."
+**Yuzhou Wang**, Ling Jin, Julian D. Marshall, Joshua S. Apte. "A seasonal reduced-form air quality model in California,"
 
-**Yuzhou Wang**, Joshua S. Apte, Julian D. Marshall, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Manuel Salgado, Christopher W. "Can we eliminate air pollution exposure disparities under existing Clean Air Act authorities?"
+**Yuzhou Wang**, Joshua Apte. "Can we eliminate air pollution exposure disparities under existing Clean Air Act authorities?"
 
 Lucas R. Mendoza, **Yuzhou Wang**, Julian D. Marshall, Libby H. Koolik, Joshua S. Apte "Analyzing sources and spatial scales of air pollution disparities in California."
+
+Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Srinidhi Balasubramanian, Julian D. Marshall, Chandra Venkataraman. "Air Pollution management and intervention tool for India (PAVITRA): Making a case for multi-scale multi-sector air quality management."
+
+Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Joshua Apte, Srinidhi Balasubramanian, Julian Marshall, Chandra Venkataraman. "An Airshed Approach to Mitigating Extreme PM<sub>2.5</sub> Levels in India."
+
+Bujin Bekbulat, **Yuzhou Wang**, Jignesh Patel, Christopher Tessum, Joshua Apte, Julian Marshall. “InMAP Source Receptor Matrix 2.0: Updated Reduced Complexity Air Pollution Modeling in contiguous US.” 
 
 Datasets
 ======
