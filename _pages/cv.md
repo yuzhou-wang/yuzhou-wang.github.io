@@ -60,18 +60,24 @@ Professional associations
 Academic & community service
 ======
 * Manuscript Peer Review
+  * One Earth
   * Nature Cities
+  * Environmental Pollution
+  * GeoHealth
+  * Environmental Research Letters
   * Journal of Transport Geography
   * Population and Environment
   * Transactions in Urban Data, Science, and Technology
-  * CLEAN – Soil, Air, Water
+
+
+* Conference Paper & Presentation Reviewer
+  * Transportation Research Board Annual Meeting
+  * American Geophysical Union Fall Meeting
+
+* Conference Convener & Chair:
+  * 2024 AGU Annual Meeting, oral and poster session "Innovative Models and Tools to Precisely Quantify and Identify Solutions for Air Pollution Exposure Inequality"
 
 * Public Comment
   * Written comment on "Science Advisory Board Project Proposal: SAB Advice on Advancing Environmental Justice Science in Rulemaking", with Julian Marshall and Joshua Apte. September 2023. [Link](https://sab.epa.gov/ords/sab/r/sab_apex/sab/meeting?p19_id=1009&clear=19&session=6395161657326)
   * Written comment on "Reconsideration of the National Ambient Air Quality Standards for Particulate Matter", on behalf of the North American Chapter of the International Society for Environmental Epidemiology. March 2023. [Link](https://isee-northamerica.github.io/isee-nac/policy.html)
 
-Skills
-======
-* **Programming Languages**: Python, SQL, R, Golang, Stata, MATLAB, SAS, JavaScript
-* **Software & Packages**: Pandas, Geopandas, numpy, xarray, QGIS, GDAL, NCO, SciPy, Scikit-learn, Tensorflow
-* **Tools**: Google Cloud Platform, Kubernetes, Google Earth Engine, Docker, Git, Linux, Remote Sensing
