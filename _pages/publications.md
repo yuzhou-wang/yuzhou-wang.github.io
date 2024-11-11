@@ -20,7 +20,7 @@ Jacob S. Lefler, Joshua D. Higbee, Richard T. Burnett, Majid Ezzati, Nathan C. C
 
 Submitted Journal Articles
 ======
-Siyu Zhu, Zhi Li, Mengye Chen, Theresa E. Tsoodle, Sebastian C. Ferraro, **Yuzhou Wang**, Yang Hong. "Can we trust GPM IMERG for climatological research?" Submitted to <em>Geophysical Research Letters</em>.
+Siyu Zhu, Zhi Li, Mengye Chen, Theresa E. Tsoodle, Sebastian C. Ferraro, **Yuzhou Wang**, Yang Hong. "Can we trust GPM IMERG for climatological research?" Submitted to <em>Environmental Research Letters</em>.
 
 Working Papers
 ======
