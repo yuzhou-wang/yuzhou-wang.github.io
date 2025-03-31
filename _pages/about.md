@@ -20,7 +20,7 @@ My primary research objective is to develop data-driven models and evidence-base
 <figure>
 <p align="center">
   <img align="middle" src="/images/research_overview.png" width="400px" style="width:80%"/>
-<figcaption align="middle">Research Overview</figcaption>
+<figcaption style="text-align: center;"><strong>Research Overview</strong></figcaption>
 </p>
 </figure>
 
