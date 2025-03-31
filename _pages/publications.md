@@ -5,7 +5,9 @@ author_profile: true
 ---
 Refereed Journal Articles
 ======
-**Yuzhou Wang**, Julian D. Marshall, Joshua S. Apte. "U.S. Ambient Air Monitoring Network Has Inadequate Coverage under New PM<sub>2.5</sub> Standard." <em>Environmental Science & Technology Letters</em>, In Press. DOI: 10.1021/acs.estlett.4c00605. 2024 [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00605) <span style="color:orange">Coverage</span>: [Eos](https://eos.org/articles/epa-air-monitoring-network-misses-2-8-million-americans-in-pollution-hot-spots); [Chemical & Engineering News](https://cen.acs.org/environment/atmospheric-chemistry/US-air-pollution-monitoring-network/102/i33?sc=230901_cenrssfeed_eng_Environmentrss_cen); [American Chemical Society](https://www.acs.org/pressroom/presspacs/2024/october/us-air-pollution-monitoring-network-has-gaps-in-coverage-say-researchers.html)
+**Yuzhou Wang**, Julian D. Marshall, Joshua S. Apte. "U.S. Ambient Air Monitoring Network Has Inadequate Coverage under New PM<sub>2.5</sub> Standard." <em>Environmental Science & Technology Letters</em>, 11(11), 1220–1226. DOI: 10.1021/acs.estlett.4c00605. 2024 [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00605) <span style="color:orange">Coverage</span>: [Eos](https://eos.org/articles/epa-air-monitoring-network-misses-2-8-million-americans-in-pollution-hot-spots); [Chemical & Engineering News](https://cen.acs.org/environment/atmospheric-chemistry/US-air-pollution-monitoring-network/102/i33?sc=230901_cenrssfeed_eng_Environmentrss_cen); [American Chemical Society](https://www.acs.org/pressroom/presspacs/2024/october/us-air-pollution-monitoring-network-has-gaps-in-coverage-say-researchers.html); [Inside Climate News](https://insideclimatenews.org/news/18012025/federal-air-pollution-blind-spots/)
+
+Siyu Zhu, Zhi Li, Mengye Chen, Yixin Wen, Zhong Liu, George Huffman, Theresa Tsoodle, Sebastian Ferraro, **Yuzhou Wang**, Yang Hong. "Evaluation of IMERG climate trends over land in the TRMM and GPM eras." <em>Environmental Research Letters</em>, 20, 014064. DOI: 10.1088/1748-9326/ad984e. 2024. [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/ad984e)
 
 **Yuzhou Wang**, Joshua S. Apte, Jason D. Hill, Cesunica E. Ivey, Dana Johnson, Esther Min, Rachel Morello-Frosch, Regan F. Patterson, Allen L. Robinson, Christopher W. Tessum, Julian D. Marshall. "Air quality policy should quantify effects on disparities." <em>Science</em>, 381,272-274. DOI: 10.1126/science.adg9931. 2023. [[Link]](https://www.science.org/doi/10.1126/science.adg9931) [[PDF]](https://github.com/yuzhou-wang/yuzhou-wang.github.io/blob/master/files/Wang%20et%20al%20Science%202023.pdf) <span style="color:orange">Coverage</span>: [The New York Times](https://www.nytimes.com/2023/07/20/climate/justice40-pollution-environmental-justice.html); [The Associated Press](https://apnews.com/article/environment-climate-pollution-biden-justice40-air-633392b2f4f50bbaaff8880746783966); [The Washington Post](https://www.washingtonpost.com/climate-environment/2023/07/20/without-focus-race-biden-effort-air-pollution-disparities-will-fail-report-says/); [National Public Radio](https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america)
 
@@ -18,19 +20,18 @@ Refereed Journal Articles
 
 Jacob S. Lefler, Joshua D. Higbee, Richard T. Burnett, Majid Ezzati, Nathan C. Coleman, Dalton D. Mann, Julian D. Marshall, Matthew J. Bechle, **Yuzhou Wang**, Allen L. Robinson, C. Arden Pope III. "Air pollution and mortality in a large, representative US cohort: multiple-pollutant analyses, and spatial and temporal decompositions." <em>Environmental Health</em>, 18(101), 1-11. DOI: 10.1186/s12940-019-0544-9. 2019. [[Link]](https://link.springer.com/article/10.1186/s12940-019-0544-9)
 
-Submitted Journal Articles
-======
-Siyu Zhu, Zhi Li, Mengye Chen, Theresa E. Tsoodle, Sebastian C. Ferraro, **Yuzhou Wang**, Yang Hong. "Can we trust GPM IMERG for climatological research?" Submitted to <em>Environmental Research Letters</em>.
 
 Working Papers
 ======
-**Yuzhou Wang**, Ling Jin, Julian D. Marshall, Joshua S. Apte. "A seasonal reduced-form air quality model in California,"
+**Yuzhou Wang**, Lucas Mendoza, Ling Jin, Joshua Apte. "A reduced-form air quality model for policy assistant in California."
 
-**Yuzhou Wang**, Joshua Apte. "Can we eliminate air pollution exposure disparities under existing Clean Air Act authorities?"
+**Yuzhou Wang**, Joshua Apte. "A seasonal air quality model with machine learning based bias correction"
 
-Lucas R. Mendoza, **Yuzhou Wang**, Julian D. Marshall, Libby H. Koolik, Joshua S. Apte "Analyzing sources and spatial scales of air pollution disparities in California."
+Lucas R. Mendoza, **Yuzhou Wang**, Julian D. Marshall, Libby H. Koolik, Joshua S. Apte. "Analyzing sources and spatial scales of air pollution disparities in California."
 
-Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Srinidhi Balasubramanian, Julian D. Marshall, Chandra Venkataraman. "Air Pollution management and intervention tool for India (PAVITRA): Making a case for multi-scale multi-sector air quality management."
+Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Srinidhi Balasubramanian, Julian D. Marshall, Chandra Venkataraman. "Evaluating multi-scale heterogeneity in PM<sub>2.5</sub> exposures for India using an annualized reduced complexity model."
+
+Srinidhi Balasubramanian, Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Julian D. Marshall, Chandra Venkataraman. "Air Pollution management and intervention tool for India (PAVITRA): Making a case for multi-scale multi-sector air quality management."
 
 Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Joshua Apte, Srinidhi Balasubramanian, Julian Marshall, Chandra Venkataraman. "An Airshed Approach to Mitigating Extreme PM<sub>2.5</sub> Levels in India."
 
