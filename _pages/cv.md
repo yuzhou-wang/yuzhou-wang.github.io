@@ -60,14 +60,19 @@ Professional associations
 Academic & community service
 ======
 * Manuscript Peer Review
-  * One Earth
   * Nature Cities
+  * Environmental Science & Technology
+  * One Earth
   * Environmental Pollution
   * GeoHealth
   * Environmental Research Letters
   * Journal of Transport Geography
+  * BMC Public Health
+  * Scientific Reports
+  * Environmental Geochemistry and Health
   * Population and Environment
-  * Transactions in Urban Data, Science, and Technology
+  * International Journal of Data Science and Analytics
+
 
 
 * Conference Paper & Presentation Reviewer
