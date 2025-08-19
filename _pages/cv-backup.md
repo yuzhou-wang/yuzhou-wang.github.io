@@ -16,7 +16,9 @@ Education
 
 Research experience
 ======
-* Postdoctoral Scholar, Jul 2023 - Present
+* Assistant Professor, Aug 2025 - Present
+  * Zachry Department of Civil and Environmental Engineering, Texas A&M University   
+* Postdoctoral Scholar, Jul 2023 - Jul 2025
   * Department of Civil and Environmental Engineering, University of California, Berkeley
     * Developed a data-driven high-resolution (1 km) and computational-efficient air quality modeling, based on 200 TB raw data, to connect emissions to ambient air pollution concentrations (digital twin). 
     * Implemented the distributed computing of air quality models using Kubernetes on Google Cloud Platform.
