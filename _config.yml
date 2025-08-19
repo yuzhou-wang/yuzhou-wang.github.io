@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuzhou Wang \n (王雨洲)"
   avatar           : "profile.png"
-  bio              : "Incoming Assistant Professor at Texas A&M University, working on air quality modeling and data science."
-  location         : #"Berkeley, CA"
+  bio              : "Assistant Professor at Texas A&M University, working on air quality and data science."
+  location         : "College Station, TX"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vH2cj8MAAAAJ&hl=en&oi=ao"
-  email            : yuzhouw[AT]berkeley[DOT]edu
+  email            : yuzhouw[AT]tamu[DOT]edu
   researchgate     : "https://www.researchgate.net/profile/Yuzhou-Wang-13"
   uri              :
   bitbucket        :
