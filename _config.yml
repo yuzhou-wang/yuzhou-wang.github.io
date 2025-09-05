@@ -7,7 +7,7 @@
 
 # Site Settings
 logo                     : "/images/logo_total.svg"
-masthead_title           : "Air Intelligence Research Lab"
+masthead_title           : ""
 locale                   : "en-US"
 title                    : "Yuzhou Wang"
 title_separator          : "-"
