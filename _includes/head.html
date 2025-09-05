@@ -4,6 +4,15 @@
 
 {% include seo.html %}
 
+<!-- Favicons -->
+<link rel="icon" type="image/x-icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ '/images/favicon-96x96.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="mask-icon" href="{{ '/images/favicon.svg' | relative_url }}" color="#1f2a44">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#ffffff">
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
