@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-logo                     : "/assets/images/logo_only.svg"
+logo                     : "/images/logo_only.svg"
 masthead_title           : "Air Intelligence Research Lab"
 locale                   : "en-US"
 title                    : "Yuzhou Wang"
