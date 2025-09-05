@@ -9,7 +9,7 @@ redirect_from:
 Click [here](#) to view my CV.
 
 <div id="pdf-container" style="display: none; margin-top: 20px;">
-    <iframe src="../files/YuzhouWang-CV-May2025.pdf" width="100%" height="800px"></iframe>
+    <iframe src="../files/YuzhouWang-CV-Sep2025.pdf" width="100%" height="800px"></iframe>
 </div>
 
 <script>
