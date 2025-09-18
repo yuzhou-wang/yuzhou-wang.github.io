@@ -17,7 +17,7 @@ author_profile: false
     <p>Email: yuzhouw@tamu.edu</p>
     <p>Office: DLEB 410C</p>
     <!-- Icon links -->
-    <p style="margin-top:0.5rem; display:flex; gap:0.6rem; align-items:center;">
+    <p style="margin-top:0.6rem; display:flex; gap:0.8rem; align-items:center; font-size:1.6rem; line-height:1;">
       <a href="https://scholar.google.com/citations?user=vH2cj8MAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       <a href="https://www.linkedin.com/in/yuzhouwang" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://www.researchgate.net/profile/Yuzhou-Wang-13" target="_blank" rel="noopener" aria-label="ResearchGate"><i class="ai ai-researchgate"></i></a>
