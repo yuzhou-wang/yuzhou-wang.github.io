@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /research/
-author_profile: true
+author_profile: false
 ---
 
 
