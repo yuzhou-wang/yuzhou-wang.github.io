@@ -9,8 +9,8 @@ author_profile: false
 .pi-card{display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;margin-bottom:.5rem}
 .pi-card .pi-photo img{width:200px;max-width:35vw;height:auto;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
 .pi-card .pi-text{flex:1 1 260px;min-width:260px}
-.pi-card .pi-text h3{margin:0 0 .25rem 0;line-height:1.2;font-size: 1.6rem; font-weight: 700; */}
-.pi-card .pi-text p{margin:.15rem 0;line-height:1.25}
+.pi-card .pi-text h3{margin:0 0 .5rem 0;line-height:1.2;font-size: 1.6rem; font-weight: 700; */}
+.pi-card .pi-text p{margin:.8rem 0;line-height:1.25}
 .pi-icons{display:flex;gap:.8rem;font-size:2.5rem;line-height:1;margin-top:.6rem}
 @media (max-width: 800px){.pi-card{flex-direction:column;align-items:flex-start}}
 </style>
