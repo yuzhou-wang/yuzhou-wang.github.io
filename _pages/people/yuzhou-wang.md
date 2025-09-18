@@ -1,6 +1,6 @@
 ---
 permalink: /people/yuzhou-wang/
-title: "Yuzhou Wang"
+title: ""
 author_profile: true
 ---
 
