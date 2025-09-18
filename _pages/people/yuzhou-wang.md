@@ -6,12 +6,7 @@ author_profile: true
 
 I'm an Assistant Professor at Texas A&M University, Zachry Department of Civil and Environmental Engineering. 
 
-My research interests include: 
-- Air Quality Modeling;
-- Air Pollution Exposure;
-- Machine Learning;
-- Artificial Intelligence
-- Environmental Policy. 
+My research interests include: Air Quality Modeling; Air Pollution Exposure; Machine Learning; Artificial Intelligence; and Environmental Policy. 
 
 My primary research objectives are:
 - **Air Quality Model Development**: Develop atmospheric models to predict pollution concentrations from emissions, integrating machine learning approaches. 
