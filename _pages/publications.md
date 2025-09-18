@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 Refereed Journal Articles
 ======
