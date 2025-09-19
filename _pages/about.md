@@ -13,6 +13,12 @@ author_profile: false
 .home-actions{ text-align:center; margin-top:1rem; }
 .home-actions a{ display:inline-block; padding:.55rem .9rem; border-radius:6px; background:#1f4b99; color:#fff !important; text-decoration:none; }
 .home-actions a:hover{ background:#173a76; }
+.u {
+display: inline-block;
+border-bottom: 0.12em solid currentColor;
+line-height: 0.9;
+}
+
 </style>
 
 <div class="home-tagline">Modeling Air Quality: Prediction, Mapping, Mitigation</div>
