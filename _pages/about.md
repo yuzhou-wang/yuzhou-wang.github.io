@@ -9,7 +9,7 @@ author_profile: false
 .home-hero{ text-align:center; margin: .5rem 0 1rem; }
 /* No border, no radius, no shadow */
 .home-hero img{ width:90%; max-width:1000px; height:auto; border:none; border-radius:0; box-shadow:none; margin:0 auto; }
-.home-body{ font-size:1.06rem; line-height:1.65; max-width:1500px; margin:0 auto 1rem; }
+.home-body{ font-size:1.06rem; line-height:1.65; max-width:none; margin:0 auto 1rem; }
 .home-actions{ text-align:center; margin-top:1rem; }
 .home-actions a{ display:inline-block; padding:.55rem .9rem; border-radius:6px; background:#1f4b99; color:#fff !important; text-decoration:none; }
 .home-actions a:hover{ background:#173a76; }
