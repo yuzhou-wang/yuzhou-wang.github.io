@@ -9,10 +9,10 @@ I'm an Assistant Professor at Texas A&M University, Zachry Department of Civil a
 My research interests include: Air Quality Modeling; Air Pollution Exposure; Machine Learning; Artificial Intelligence; and Environmental Policy. 
 
 My primary research objectives are:
-- **Air Quality Model Development**: Develop atmospheric models to predict pollution concentrations from emissions, integrating machine learning approaches. 
-- **Fine-scale Air Pollution Mapping**: Predict air pollution concentration at high spatial-temporal resolution using data from satellite remote sensing, low-cost sensors, and other sources.
-- **Policy Solutions for Air Pollution Exposure**: Leverage models to evaluate regulatory, energy, and transportation policies aimed at reducing human exposure and associated health impacts.
-- **Risk communication**: Employ artificial intelligence in air quality risk communication to the public.
+- **Air quality model development**: Develop atmospheric models to predict pollution concentrations from emissions, integrating machine learning approaches. 
+- **Fine-scale air pollution mapping**: Predict air pollution concentration at high spatial-temporal resolution using data from satellite remote sensing, low-cost sensors, and other sources.
+- **Policy solutions for air pollution exposure**: Leverage models to evaluate regulatory, energy, and transportation policies aimed at reducing human exposure and associated health impacts.
+- **Risk communication using AI**: Employ large language models in air quality risk communication to the public.
 
 Prior to joining Texas A&M, I did my postdoc at the University of California, Berkeley. I received my Ph.D. in Civil Engineering from the University of Washington in 2023. I earned a Bachelor's degree in Environmental Engineering and a second Bachelor's degree in Business Administration from Tsinghua University in 2017. 
 
