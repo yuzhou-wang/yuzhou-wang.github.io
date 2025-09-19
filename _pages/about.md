@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Air Intelligence Research Lab"
+title: ""
 permalink: /
 author_profile: false
 ---
@@ -18,7 +18,7 @@ author_profile: false
 <div class="home-tagline">Modeling Air Quality: Prediction, Mapping, Mitigation</div>
 
 <div class="home-hero">
-![Research summary: air quality modeling, mapping, solution](/images/research_overview.png)
+  <img src="{{ '/images/research_overview.png' | relative_url }}" alt="Research summary: air quality modeling, machine learning, and One Health">
 </div>
 
 <div class="home-body">
@@ -29,6 +29,8 @@ We also employ Artificial Intelligence and Large Language Models to communicate 
 Our mission is to develop evidence-based solutions to pursue clean air and protect human health.
 </div>
 
+### Contact
 <div class="home-actions">
-For inquiries or collaboration, please visit the PI’s page: [Contact the PI →](/people/yuzhou-wang/)
+  For inquiries or collaboration, please visit the PI’s page:
+  <a href="{{ '/people/yuzhou-wang/' | relative_url }}">Contact the PI →</a>
 </div>
