@@ -39,23 +39,30 @@ author_profile: false
 
 
 ## Graduate Students
-<div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap; margin-bottom:1rem;">
-  <div style="flex:1 1 260px; min-width:260px;">
-    <h3 style="margin-top:0;"><a>Heewon (Laura) Yim</a></h3>
-    <p>Ph.D. student</p>
-    <p></p>
-    <p></p>
-  </div>
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
+<img src="/images/Laura.png" alt="Heewon Yim">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/heewon-yim/">Heewon Yim</a></h3>
+<p>Ph.D. student</p>
+<p>Email: <a href="mailto:laura.yim@tamu.edu">laura.yim@tamu.edu</a></p>
+<p>Office: DLEB 405G</p>
+</div>
 </div>
 
-<div style="display:flex; gap:1rem; align-items:flex-start; flex-wrap:wrap; margin-bottom:1rem;">
-  <div style="flex:1 1 260px; min-width:260px;">
-    <h3 style="margin-top:0;"><a>Alan Gonzalez</a></h3>
-    <p>Ph.D. student</p>
-    <p></p>
-    <p></p>
-  </div>
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
+<img src="/images/Headshot_AG.png" alt="Alan Gonzalez">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/alan-gonzalez/">Alan Gonzalez</a></h3>
+<p>Ph.D. student, Graduate Assistant Lecturer</p>
+<p>Email: <a href="mailto:alan.r.gonzalez@tamu.edu">alan.r.gonzalez@tamu.edu</a></p>
+<p>Office: DLEB 405L</p>
 </div>
+</div>
+
 
 
 
