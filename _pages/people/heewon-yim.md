@@ -18,7 +18,10 @@ author_profile: false
 <img src="/images/Laura.png" alt="Heewon Yim">
 </a>
 <div class="pi-text">
-<h3 style="margin-top:0;"><a>Heewon Yim</a></h3>
+<h3 style="margin-top:0;">Heewon Yim</h3>
+<p>Ph.D. student</p>
+<p> </p>
+
 <strong>Education</strong>
 <p>- M.S., Yonsei University, 2020</p>
 <p>- B.S., Chung-Ang University, 2017</p>
