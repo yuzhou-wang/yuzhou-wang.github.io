@@ -27,7 +27,6 @@ author_profile: false
 <p>- B.S., Chung-Ang University, 2017</p>
 </div>
 </div>
-Heewon Yim joined the Air Intelligence Lab as a Ph.D. student.
 
 Heewon's research interests center on atmospheric chemistry and air quality modeling. 
 Her dissertation focuses on volatile organic compound (VOC) emissions and their role in secondary organic aerosol (SOA) formation. 
