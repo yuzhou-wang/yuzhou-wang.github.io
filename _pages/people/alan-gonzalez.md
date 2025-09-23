@@ -35,4 +35,4 @@ Within the scientific community, future climate scenarios are used to convey var
 To model future air quality at community scales, the meteorology and emissions from these scenarios require the implementation of additional spatial and temporal downscaling. 
 Based on the modeled concentrations of air pollutants, impact assessments can then be used to explore potential climate-related disparities or inequalities that may arise depending on the level of collective consensus on mitigation initiatives.
 
-Alan has strong expertise in emissions downscaling, atmospheric chemistry, chemical transport model simulation, and integrated risk assessment.
+Alan has strong expertise in emissions downscaling, chemical transport model simulation, and integrated risk assessment.
