@@ -26,7 +26,6 @@ author_profile: false
 <p>- B.S., Civil Engineering, Texas Tech University, 2021</p>
 </div>
 </div>
-Alan Gonzalez joined the Air Intelligence Lab as a Ph.D. student.
 
 Alan's research focuses on developing modeling methods to assess past and future climate. 
 Historically, cloud formation processes have served as one of the biggest sources of uncertainty in climate assessments. 
