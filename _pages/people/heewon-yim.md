@@ -31,6 +31,6 @@ Heewon Yim joined the Air Intelligence Lab in Fall 2025 as a Ph.D. student.
 
 Heewon's research interests center on atmospheric chemistry and air quality modeling. 
 Her dissertation focuses on volatile organic compound (VOC) emissions and their role in secondary organic aerosol (SOA) formation. 
-Heewon has extensive experience in developing emission inventories and applying chemical transport models (e.g., CMAQ, WRF, SMOKE, InMAP) in combination with machine learning approaches to evaluate and improve model performance. 
+Heewon has strong expertise in developing emission inventories and applying chemical transport models (e.g., CMAQ, WRF, SMOKE, InMAP) in combination with machine learning approaches to evaluate and improve model performance. 
 
-In her free time, she loves to watch movies and run.
+In her free time, she enjoys watching movies and running.
