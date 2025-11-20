@@ -45,9 +45,11 @@ author_profile: false
 </a>
 <div class="pi-text">
 <h3 style="margin-top:0;"><a href="/people/heewon-yim/">Heewon Yim</a></h3>
-<p>Ph.D. student</p>
+<p>Ph.D. Candidate</p>
 <p>Email: <a href="mailto:laura.yim@tamu.edu">laura.yim@tamu.edu</a></p>
 <p>Office: DLEB 405G</p>
+<p>Thesis Topic: An Integrated Measurement and Modeling Approach to Quantify Emissions for Volatile Organic Compounds</p>
+  
 </div>
 </div>
 
@@ -57,9 +59,11 @@ author_profile: false
 </a>
 <div class="pi-text">
 <h3 style="margin-top:0;"><a href="/people/alan-gonzalez/">Alan Gonzalez</a></h3>
-<p>Ph.D. student, Graduate Assistant Lecturer</p>
+<p>Ph.D. Candidate, Graduate Teaching Fellow</p>
 <p>Email: <a href="mailto:alan.r.gonzalez@tamu.edu">alan.r.gonzalez@tamu.edu</a></p>
 <p>Office: DLEB 405L</p>
+<p>Thesis Topic: Modeling Climate and Air Quality: Assessments Across Historical and Future Periods</p>
+
 </div>
 </div>
 
