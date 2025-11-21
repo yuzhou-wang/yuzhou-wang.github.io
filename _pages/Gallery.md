@@ -2,7 +2,7 @@
 layout: archive
 title: "Gallery"
 permalink: /photos/
-author_profile: true
+author_profile: false
 ---
 
 <style>
