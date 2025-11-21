@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /cv/
-author_profile: false
+author_profile: True
 redirect_from:
   - /resume
 ---
