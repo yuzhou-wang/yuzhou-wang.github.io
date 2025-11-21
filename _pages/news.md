@@ -49,14 +49,63 @@ author_profile: true
 
 <div class="news-container">
 
+
   <div class="news-item">
     <div class="news-image">
-      <img src="/images/news/Heewon_proposal.jpg" alt="Conference Group Photo">
+      <img src="/images/news/Alan_proposal.jpg" alt="Alan Prelim">
+    </div>
+    <div class="news-content">
+      <span class="news-date">November, 2025</span>
+      <p>
+      Congratulations to Alan Gonzalez for passing the preliminary exam and becoming a PhD candidate! 
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/EnviBayes.jpg" alt="EnviBayes">
+    </div>
+    <div class="news-content">
+      <span class="news-date">October, 2025</span>
+      <p>
+       Dr. Wang gave an invited talk at the EnviBayes Workshop on Complex Environmental Data. 
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/Heewon_conference.jpg" alt="Heewon Conference">
+    </div>
+    <div class="news-content">
+      <span class="news-date">October, 2025</span>
+      <p>
+       Heewon Yim made a poster presentation at the EnviBayes Workshop on Complex Environmental Data. 
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/Heewon_proposal.jpg" alt="Heewon Prelim">
     </div>
     <div class="news-content">
       <span class="news-date">October, 2025</span>
       <p>
         Congratulations to Heewon Yim for passing the preliminary exam and becoming a PhD candidate! 
+      </p>
+    </div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/tamu_cee.jpg" alt="TAMU CEE">
+    </div>
+    <div class="news-content">
+      <span class="news-date">August, 2025</span>
+      <p>
+        Dr. Wang joined the Zachry Department of Civil and Environmental Engineering, Texas A&M University, as an Assistant Professor.  
       </p>
     </div>
   </div>
