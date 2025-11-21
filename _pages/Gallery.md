@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Gallery"
+title: "Group Photos"
 permalink: /photos/
 author_profile: false
 ---
