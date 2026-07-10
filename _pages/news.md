@@ -49,6 +49,7 @@ author_profile: fasle
 
 <div class="news-container">
 
+  
   <div class="news-item">
     <div class="news-image">
       <img src="/images/news/yuzhou_ticer.png" alt="Yuzhou TiCER">
@@ -60,6 +61,19 @@ author_profile: fasle
       </p>
     </div>
   </div>
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/yuzhou_capees.jpg" alt="Yuzhou CAPEES">
+    </div>
+    <div class="news-content">
+      <span class="news-date">May, 2026</span>
+      <p>
+      Dr. Wang attended the Chinese-American Professors in Environmental Engineering and Science (CAPEES) 2026 Conference at Rice University.
+      </p>
+    </div>
+  </div>
+  
   
   <div class="news-item">
     <div class="news-image">
@@ -73,8 +87,18 @@ author_profile: fasle
     </div>
   </div>
 
-<div class="news-container">
-
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/yuzhou_utsa.png" alt="Yuzhou UTSA">
+    </div>
+    <div class="news-content">
+      <span class="news-date">April, 2026</span>
+      <p>
+      Dr. Wang gave an invited seminar in the Department of Civil and Environmental Engineering at UT San Antonio.
+      </p>
+    </div>
+  </div>
+  
   <div class="news-item">
     <div class="news-image">
       <img src="/images/news/yuzhou_tpt.png" alt="Yuzhou TPT">
@@ -83,6 +107,18 @@ author_profile: fasle
       <span class="news-date">February, 2026</span>
       <p>
       Congratulations to Dr. Wang on receiving Targeted Proposal Teams (TPT) funding as the lead PI!
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/yuzhou_AGU.jpg" alt="Yuzhou AGU">
+    </div>
+    <div class="news-content">
+      <span class="news-date">December, 2025</span>
+      <p>
+      Dr. Wang attended the American Geophysical Union (AGU) 2026 Annual Meeting in Washington, D.C.
       </p>
     </div>
   </div>
