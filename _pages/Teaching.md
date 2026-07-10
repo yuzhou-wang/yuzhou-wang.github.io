@@ -11,3 +11,8 @@ This course provides a comprehensive overview of air pollution. Topics covered i
 - Level: Undergrad (Upper)
 - Term: Fall 2025
 
+**CVEN 607: Engineering Aspects of Air Quality** 
+
+This graduate-level course examines the chemistry and physics, sources, transport, transformation, impacts, monitoring, modeling, regulation, and control of gaseous and particulate air pollutants. Topics include atmospheric stability and dispersion, source–receptor relationships, health and ecosystem effects, climate interactions, indoor air pollution, measurement methods, and emission control technologies. Students will apply Python, InMAP-ISRM, and HYSPLIT to analyze air pollution transport and support air quality management.
+- Level: Graduate
+- Term: Spring 2026
