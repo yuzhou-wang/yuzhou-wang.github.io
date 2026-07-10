@@ -67,6 +67,30 @@ author_profile: false
 </div>
 </div>
 
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
+<img src="/images/Reyna_headshot.jpg" alt="Reyna Burns">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/reyna-burns/">Reyna Burns</a></h3>
+<p>M.S. Student</p>
+<p>Email: <a href="mailto:reynaburns@tamu.edu">reynaburns@tamu.edu</a></p>
+<p>Research Topic: Integrating Satellite Remote Sensing and Low-Cost Sensors for High-Resolution Air Quality Mapping</p>
+  
+</div>
+</div>
 
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
+<img src="/images/Malvika_edit.jpg" alt="Malvika Koushik">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/malvika-koushik/">Malvika Koushik</a></h3>
+<p>M.S. Student</p>
+<p>Email: <a href="mailto:malvika.koushik@tamu.edu">malvika.koushik@tamu.edu</a></p>
+<p>Research Topic: An LLM-Based AI Agent for Air Quality and Health Risk Communication</p>
+  
+</div>
+</div>
 
 
