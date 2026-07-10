@@ -51,12 +51,50 @@ author_profile: fasle
 
   <div class="news-item">
     <div class="news-image">
+      <img src="/images/news/yuzhou_ticer.png" alt="Yuzhou TiCER">
+    </div>
+    <div class="news-content">
+      <span class="news-date">June, 2026</span>
+      <p>
+      Congratulations to Dr. Wang on receiving TiCER pilot project funding from the Texas A&M Center for Environmental Health Research as the lead PI!
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
       <img src="/images/news/alan_awards_ceremony.jpg" alt="Alan Certificate">
     </div>
     <div class="news-content">
       <span class="news-date">April, 2026</span>
       <p>
       Alan Gonzalez earned a CIRTL Associate certificate for learning and instruction at the annual graduate student awards ceremony.
+      </p>
+    </div>
+  </div>
+
+<div class="news-container">
+
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/yuzhou_tpt.png" alt="Yuzhou TPT">
+    </div>
+    <div class="news-content">
+      <span class="news-date">February, 2026</span>
+      <p>
+      Congratulations to Dr. Wang on receiving Targeted Proposal Teams (TPT) funding as the lead PI!
+      </p>
+    </div>
+  </div>
+  
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/heewon_fellowship.png" alt="Heewon Fellowship">
+    </div>
+    <div class="news-content">
+      <span class="news-date">December, 2025</span>
+      <p>
+      Congratulations to Heewon Yim on receiving the Dissertation Fellowship from Texas A&M University!
       </p>
     </div>
   </div>
@@ -68,7 +106,7 @@ author_profile: fasle
     <div class="news-content">
       <span class="news-date">November, 2025</span>
       <p>
-      Congratulations to Alan Gonzalez for passing the preliminary exam and becoming a PhD candidate! 
+      Congratulations to Alan Gonzalez on passing the preliminary exam and becoming a PhD candidate! 
       </p>
     </div>
   </div>
@@ -104,7 +142,7 @@ author_profile: fasle
     <div class="news-content">
       <span class="news-date">October, 2025</span>
       <p>
-        Congratulations to Heewon Yim for passing the preliminary exam and becoming a PhD candidate! 
+        Congratulations to Heewon Yim on passing the preliminary exam and becoming a PhD candidate! 
       </p>
     </div>
   </div>
