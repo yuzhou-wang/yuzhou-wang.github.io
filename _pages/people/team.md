@@ -82,7 +82,7 @@ author_profile: false
 
 <div class="pi-card">
 <a class="pi-photo" href="/people/">
-<img src="/images/Malvika_edit.jpg" alt="Malvika Koushik">
+<img src="/images/Malvika_edit.png" alt="Malvika Koushik">
 </a>
 <div class="pi-text">
 <h3 style="margin-top:0;"><a href="/people/malvika-koushik/">Malvika Koushik</a></h3>
