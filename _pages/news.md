@@ -49,6 +49,17 @@ author_profile: fasle
 
 <div class="news-container">
 
+  <div class="news-item">
+    <div class="news-image">
+      <img src="/images/news/alan_awards_ceremony.jpg" alt="Alan Certificate">
+    </div>
+    <div class="news-content">
+      <span class="news-date">April, 2026</span>
+      <p>
+      Alan Gonzalez earned a CIRTL Associate certificate for learning and instruction at the annual graduate student awards ceremony.
+      </p>
+    </div>
+  </div>
 
   <div class="news-item">
     <div class="news-image">
