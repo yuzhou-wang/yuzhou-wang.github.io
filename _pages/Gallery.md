@@ -48,7 +48,20 @@ author_profile: false
   line-height: 1.4;
 }
 </style>
+<div class="gallery-grid">
 
+  <div class="gallery-item">
+    <img src="/images/news/Group_lunch2.jpg" alt="Group Lunch 2">
+    <span class="gallery-caption">End of semester group lunch, May 2026.</span>
+  </div>
+
+  <div class="gallery-item">
+    <img src="/images/news/Group_lunch1.jpg" alt="Group Lunch 1">
+    <span class="gallery-caption">Group lunch, January 2026.</span>
+  </div>
+
+
+</div>
 <div class="gallery-grid">
 
   <div class="gallery-item">
