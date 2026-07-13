@@ -56,7 +56,7 @@ author_profile: false
   </div>
 
   <div class="gallery-item">
-    <img src="/images/news/Group_lunch1.jpg" alt="Group Lunch 1">
+    <img src="/images/news/group_lunch1.jpg" alt="Group Lunch 1">
     <span class="gallery-caption">Group lunch, January 2026.</span>
   </div>
 
@@ -65,7 +65,7 @@ author_profile: false
 <div class="gallery-grid">
 
   <div class="gallery-item">
-    <img src="/images/news/Group_dinner2.jpg" alt="Group Dinner 2">
+    <img src="/images/news/group_dinner2.jpg" alt="Group Dinner 2">
     <span class="gallery-caption">End of semester group dinner, Nov 2025.</span>
   </div>
 
