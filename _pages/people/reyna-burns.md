@@ -1,5 +1,5 @@
 ---
-permalink: /people/reyna_burns/
+permalink: /people/reyna-burns/
 title: ""
 author_profile: false
 ---
