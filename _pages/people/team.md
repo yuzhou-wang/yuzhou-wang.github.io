@@ -93,4 +93,15 @@ author_profile: false
 </div>
 </div>
 
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
+<img src="/images/Yeshu_edit.png" alt="Yeshu Lokesh">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/yeshu-lokesh/">Yeshu Lokesh</a></h3>
+<p>M.S. Student</p>
+<p>Email: <a href="mailto:yeshulokesh@tamu.edu">yeshulokesh@tamu.edu</a></p>
+<p>Research Topic: An LLM-Based AI Agent for Air Quality and Health Risk Communication</p>
 
+</div>
+</div>
