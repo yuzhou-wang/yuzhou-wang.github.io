@@ -69,6 +69,20 @@ author_profile: false
 
 <div class="pi-card">
 <a class="pi-photo" href="/people/">
+<img src="/images/Cenchao.jpeg" alt="Cenchao Wang">
+</a>
+<div class="pi-text">
+<h3 style="margin-top:0;"><a href="/people/cenchao-wang/">Cenchao Wang</a></h3>
+<p>Ph.D. Student</p>
+<p>Email: <a href="mailto:cwang326@tamu.edu">cwang326@tamu.edu</a></p>
+<p>Office: DLEB 405G</p>
+<p>Thesis Topic: Air Quality and Human Exposure Under Extreme Weather and Changing Environmental Conditions</p>
+
+</div>
+</div>
+
+<div class="pi-card">
+<a class="pi-photo" href="/people/">
 <img src="/images/Reyna_headshot.jpg" alt="Reyna Burns">
 </a>
 <div class="pi-text">
