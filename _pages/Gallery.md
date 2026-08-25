@@ -64,11 +64,6 @@ author_profile: false
     <span class="gallery-caption">Group lunch, January 2026.</span>
   </div>
 
-
-
-</div>
-<div class="gallery-grid">
-
   <div class="gallery-item">
     <img src="/images/news/Group_dinner2.jpg" alt="Group Dinner 2">
     <span class="gallery-caption">End of semester group dinner, Nov 2025.</span>
