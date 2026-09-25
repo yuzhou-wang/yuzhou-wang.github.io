@@ -3,8 +3,15 @@ title: ""
 permalink: /publications/
 author_profile: false
 ---
-Refereed Journal Articles
+Published Journal Articles
 ======
+
+Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Zainab Arub, Shivam Saxena, Piyush Bhardwaj, Joshua Apte, Julian Marshall, Srinidhi Balasubramanian, Chandra Venkataraman. "Mitigation strategies for critically polluted PM2.5 regions using spatially targeted airsheds: Application to the Indo-Gangetic Plain, India." <em>npj Clean Air</em>, Accepted. 2026
+
+Azar M. Abadi, Kyle D. Brumfield, Moiz Usmani, Gemma Jiang, T. C. Chakraborty, **Yuzhou Wang**, Zhijie Zhou, Cenlin He, Minghao Qiu, Jennifer D. Stowell, Douglas Fritz, Sunil Kumar, Qiang Guo, Ying Xiong, Georgia Destouni, Qian Xiao, Xindi C. Hu, Kelvin C. Fong, Yun Hang, John Nielsen-Gammon, Rima Habre, Jennifer R. Bratburd, Christopher W. Tessum, Antarpreet Jutla, Rita R. Colwell, Gabriel M. Filippelli, Thanh H. Nguyen. "Developing scenario-based strategies for health, climate, and environmental preparedness: The One Health, One Earth approach." <em>GeoHealth</em>, 10(4), e2025GH001674. DOI: 10.1029/2025GH001674. 2026. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GH001674)
+
+**Yuzhou Wang**, Cassidy L. Barrientos, Ling Jin, Libby H. Koolik, Julian D. Marshall, Lucas Rojas Mendoza, Alper Unal, Chandra Venkataraman, Yuhan Wang, Joshua S. Apte. "Advancing State-Level Air Quality Management with New Source-Receptor Tools." <em>ChemRxiv</em>. DOI: 10.26434/chemrxiv-2025-3hhsj. 2025. [[link]](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-3hhsj)
+
 **Yuzhou Wang**, Julian D. Marshall, Joshua S. Apte. "U.S. Ambient Air Monitoring Network Has Inadequate Coverage under New PM<sub>2.5</sub> Standard." <em>Environmental Science & Technology Letters</em>, 11(11), 1220–1226. DOI: 10.1021/acs.estlett.4c00605. 2024 [[link]](https://pubs.acs.org/doi/10.1021/acs.estlett.4c00605) <span style="color:orange">Coverage</span>: [Eos](https://eos.org/articles/epa-air-monitoring-network-misses-2-8-million-americans-in-pollution-hot-spots); [Chemical & Engineering News](https://cen.acs.org/environment/atmospheric-chemistry/US-air-pollution-monitoring-network/102/i33?sc=230901_cenrssfeed_eng_Environmentrss_cen); [American Chemical Society](https://www.acs.org/pressroom/presspacs/2024/october/us-air-pollution-monitoring-network-has-gaps-in-coverage-say-researchers.html); [Inside Climate News](https://insideclimatenews.org/news/18012025/federal-air-pollution-blind-spots/)
 
 Siyu Zhu, Zhi Li, Mengye Chen, Yixin Wen, Zhong Liu, George Huffman, Theresa Tsoodle, Sebastian Ferraro, **Yuzhou Wang**, Yang Hong. "Evaluation of IMERG climate trends over land in the TRMM and GPM eras." <em>Environmental Research Letters</em>, 20, 014064. DOI: 10.1088/1748-9326/ad984e. 2024. [[link]](https://iopscience.iop.org/article/10.1088/1748-9326/ad984e)
@@ -21,21 +28,18 @@ Siyu Zhu, Zhi Li, Mengye Chen, Yixin Wen, Zhong Liu, George Huffman, Theresa Tso
 Jacob S. Lefler, Joshua D. Higbee, Richard T. Burnett, Majid Ezzati, Nathan C. Coleman, Dalton D. Mann, Julian D. Marshall, Matthew J. Bechle, **Yuzhou Wang**, Allen L. Robinson, C. Arden Pope III. "Air pollution and mortality in a large, representative US cohort: multiple-pollutant analyses, and spatial and temporal decompositions." <em>Environmental Health</em>, 18(101), 1-11. DOI: 10.1186/s12940-019-0544-9. 2019. [[Link]](https://link.springer.com/article/10.1186/s12940-019-0544-9)
 
 
-Working Papers
+Submitted Journal Articles
 ======
-**Yuzhou Wang**, Lucas Mendoza, Ling Jin, Joshua Apte. "A reduced-form air quality model for policy assistant in California."
+Thenoor Chandran Ajith, Xiangxinyue Meng, Kyle McCary, Alan R. Gonzalez, Heewon Yim, Qi Ying, **Yuzhou Wang**, Maria Zawadowicz, Yue Zhang. "New particle formation and organic-driven growth enhance cloud condensation nuclei and cloud droplet number concentrations in a subtropical forest."
 
-**Yuzhou Wang**, Joshua Apte. "A seasonal air quality model with machine learning based bias correction"
+Alan R. Gonzalez, Heewon Yim, Kyle P. McCary, Xiangxinyue Meng, Ajith Thenoor Chandran, Yue Zhang, **Yuzhou Wang**. "Modeling decadal organosulfates in particulate matter to improve estimations of aerosol hygroscopicity in the United States."
 
-Lucas R. Mendoza, **Yuzhou Wang**, Julian D. Marshall, Libby H. Koolik, Joshua S. Apte. "Analyzing sources and spatial scales of air pollution disparities in California."
+Heewon Yim, Alan R. Gonzalez, Alana J. Dodero, Sahir Gagan, Kyle P. McCary, Sining Niu, Jie Zhang, Yue Zhang, **Yuzhou Wang**. "Quantifying personal care product emissions, temporal profiles, and air-quality impacts using measurement-constrained Chemical Transport Modeling."
 
 Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Srinidhi Balasubramanian, Julian D. Marshall, Chandra Venkataraman. "Evaluating multi-scale heterogeneity in PM<sub>2.5</sub> exposures for India using an annualized reduced complexity model."
 
 Srinidhi Balasubramanian, Lucas R. Mendoza, **Yuzhou Wang**, Neeldip Barman, Joshua S. Apte, Julian D. Marshall, Chandra Venkataraman. "Air Pollution management and intervention tool for India (PAVITRA): Making a case for multi-scale multi-sector air quality management."
 
-Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Joshua Apte, Srinidhi Balasubramanian, Julian Marshall, Chandra Venkataraman. "An Airshed Approach to Mitigating Extreme PM<sub>2.5</sub> Levels in India."
-
-Bujin Bekbulat, **Yuzhou Wang**, Jignesh Patel, Christopher Tessum, Joshua Apte, Julian Marshall. “InMAP Source Receptor Matrix 2.0: Updated Reduced Complexity Air Pollution Modeling in contiguous US.” 
 
 Datasets
 ======
