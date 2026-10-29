@@ -5,7 +5,7 @@ author_profile: false
 ---
 Published Journal Articles
 ======
-Alan R. Gonzalez, Heewon Yim, Kyle P. McCary, Xiangxinyue Meng, Ajith Thenoor Chandran, Yue Zhang, **Yuzhou Wang**. "Modeling decadal organosulfates in particulate matter to improve estimations of aerosol hygroscopicity in the United States."  <em>Environmental Science & Technology<em>, In Press, DOI: 10.1021/acs.est.6c08752. 2026.
+Alan R. Gonzalez, Heewon Yim, Kyle P. McCary, Xiangxinyue Meng, Ajith Thenoor Chandran, Yue Zhang, **Yuzhou Wang**. "Modeling decadal organosulfates in particulate matter to improve estimations of aerosol hygroscopicity in the United States."  <em>Environmental Science & Technology</em>, In Press, DOI: 10.1021/acs.est.6c08752. 2026.
 
 Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Zainab Arub, Shivam Saxena, Piyush Bhardwaj, Joshua Apte, Julian Marshall, Srinidhi Balasubramanian, Chandra Venkataraman. "Mitigation strategies for critically polluted PM2.5 regions using spatially targeted airsheds: Application to the Indo-Gangetic Plain, India." <em>npj Clean Air</em>, Accepted. 2026
 
