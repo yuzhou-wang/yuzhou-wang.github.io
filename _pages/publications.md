@@ -5,9 +5,9 @@ author_profile: false
 ---
 Published Journal Articles
 ======
-Alan R. Gonzalez, Heewon Yim, Kyle P. McCary, Xiangxinyue Meng, Ajith Thenoor Chandran, Yue Zhang, **Yuzhou Wang**. "Modeling decadal organosulfates in particulate matter to improve estimations of aerosol hygroscopicity in the United States."  <em>Environmental Science & Technology</em>, In Press, DOI: 10.1021/acs.est.6c08752. 2026.
+Alan R. Gonzalez, Heewon Yim, Kyle P. McCary, Xiangxinyue Meng, Ajith Thenoor Chandran, Yue Zhang, **Yuzhou Wang**. "Modeling decadal organosulfates in particulate matter to improve estimations of aerosol hygroscopicity in the United States."  <em>Environmental Science & Technology</em>, In Press, DOI: 10.1021/acs.est.6c08752. 2026. [[link]](https://doi.org/10.1021/acs.est.6c08752)
 
-Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Zainab Arub, Shivam Saxena, Piyush Bhardwaj, Joshua Apte, Julian Marshall, Srinidhi Balasubramanian, Chandra Venkataraman. "Mitigation strategies for critically polluted PM2.5 regions using spatially targeted airsheds: Application to the Indo-Gangetic Plain, India." <em>npj Clean Air</em>, Accepted. 2026
+Neeldip Barman, Lucas Mendoza, **Yuzhou Wang**, Zainab Arub, Shivam Saxena, Piyush Bhardwaj, Joshua Apte, Julian Marshall, Srinidhi Balasubramanian, Chandra Venkataraman. "Mitigation strategies for critically polluted PM2.5 regions using spatially targeted airsheds: Application to the Indo-Gangetic Plain, India." <em>npj Clean Air</em>, 2(70). DOI: 10.1038/s44407-026-00109-x. 2026. [[link]](https://www.nature.com/articles/s44407-026-00109-x)
 
 Azar M. Abadi, Kyle D. Brumfield, Moiz Usmani, Gemma Jiang, T. C. Chakraborty, **Yuzhou Wang**, Zhijie Zhou, Cenlin He, Minghao Qiu, Jennifer D. Stowell, Douglas Fritz, Sunil Kumar, Qiang Guo, Ying Xiong, Georgia Destouni, Qian Xiao, Xindi C. Hu, Kelvin C. Fong, Yun Hang, John Nielsen-Gammon, Rima Habre, Jennifer R. Bratburd, Christopher W. Tessum, Antarpreet Jutla, Rita R. Colwell, Gabriel M. Filippelli, Thanh H. Nguyen. "Developing scenario-based strategies for health, climate, and environmental preparedness: The One Health, One Earth approach." <em>GeoHealth</em>, 10(4), e2025GH001674. DOI: 10.1029/2025GH001674. 2026. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GH001674)
 
